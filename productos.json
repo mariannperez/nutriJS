@@ -1,0 +1,33 @@
+[
+
+{ 
+    "id": 1,
+    "nombre": "Antropometría",
+    "precio": 1000,
+    "cantidad":1,
+    "descripcion": "El cuerpo humano está compuesto por diferentes tejidos: muscular, graso, óseo, residual y piel. La suma de estos engloban el peso de la balanza, lo cual quedarse solo con ese resultado es demasiado simplista. Plantea objetivos nutricionales más específicos conociendo tu composición corporal mediante antropometría."
+    
+
+},
+
+{   "id": 2,
+    "nombre": "Plan 28 dias",
+    "precio": 1500,
+    "cantidad":1,
+    "descripcion": "La motivación y apoyo son aspectos fundamentales para un cambio de hábitos, frecuentemente nos negamos o abandonamos procesos por falta de estos. Plan 28 días es una propuesta grupal que aborda la alimentación desde un proceso de aprendizaje grupal, acompañados es más fácil y divertido."
+    
+
+},
+
+{   "id": 3,
+    "nombre": "Plan Personalizado",
+    "precio": 2000,
+    "cantidad": 1,
+    "descripcion": "Mejorar tu salud, aumentar la masa muscular o bajar la masa grasa disfrutando de tú alimentación es posible. Te ayudamos a lograr tus objetivos a través de un plan de alimentación personalizado con recetas, lista de compras, y un seguimiento mes a mes."
+    
+
+}
+
+
+
+]

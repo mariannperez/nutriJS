@@ -21,9 +21,6 @@
  
  // El usuario completa un campo y va pasando al siguiente con focusout. Luego llamamos a la función ls donde la key sera igual que el elemento que queremos guardar por ej "nombre", y el otro valor es el elemento y su valor ej nombre.value para que nos arroje el valor del elemento cargado en ese form.
  
- 
- 
- 
  nombre.addEventListener("focusout", function(){
      localStorage.setItem("name", nombre.value);
  })
@@ -44,8 +41,7 @@
  })
  
  
- //Recuperamos datos mediante getitem
- 
+ //Recuperamos datos mediante getitem 
  
  let name = localStorage.getItem("nombre")
  let age = localStorage.getItem("edad")
